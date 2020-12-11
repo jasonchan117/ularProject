@@ -1,2 +1,1 @@
-# ularProject
-This is the studying in ular projuect
+# The solution of problems in ular 
